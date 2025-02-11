@@ -81,12 +81,12 @@ Ensure you have Docker installed on your machine. If not, you can download and i
 
 1. Navigate to the directory containing the project
     ```zsh
-    cd /path/to/fraud-detection-system
+    cd /path/to/Credit-Card-Fraud-Detection-System
     ```
 
 2. Build the Docker image. We'll name it fraud-detection-system:
     ```zsh
-    docker build -t fraud-detection-system:latest . 
+    docker build -t Credit-Card-Fraud-Detection-System:latest . 
     ```
 
 Note: The `.` at the end indicates the current directory which contains your Dockerfile.
