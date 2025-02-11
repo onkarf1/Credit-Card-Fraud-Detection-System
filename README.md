@@ -1,12 +1,12 @@
-fraud-detection-system
+Credit-card-fraud-detection-system
 ==============================
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
 - [Origin](https://github.com/HeberTU/fraud-detection-system)
 - Authors: 
-  - Heber Trujillo <heber.trj.urt@gmail.com>
-- Date of last README.md update: 04.10.2023
+  - Onkar Falle <onkarfalle831@gmail.com>
+- Date of last README.md update: 11.02.2025
 
  
 This repository guides the construction of a machine learning platform tailored for a fraud detection system. We adhere to core software design principles and adopt best practices in designing machine learning systems throughout. Our approach is inspired by and draws heavily from the techniques and methodologies outlined in the following works: 
