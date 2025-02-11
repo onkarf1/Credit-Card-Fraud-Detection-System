@@ -3,7 +3,7 @@ Credit-card-fraud-detection-system
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 
-- [Origin](https://github.com/HeberTU/fraud-detection-system)
+- [Origin](https://github.com/onkarf1/Credit-Card-Fraud-Detection-System)
 - Authors: 
   - Onkar Falle <onkarfalle831@gmail.com>
 - Date of last README.md update: 11.02.2025
